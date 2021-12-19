@@ -24,4 +24,4 @@ theme:
   hljs_languages:
     - md
     - c++
-  locale: es
+  locale: fr
