@@ -1,0 +1,11 @@
+site_name: SSE Documentation Example
+
+nav:
+  - Home: 'index.md'
+  - User Guide: 
+    - Installation: 'compilation-and-installation.md'
+    - Getting Started: 'how-to.md'
+
+repo_url: https://github.com/MagnusOstertag/sse-mkdocs-exercise
+
+site_author: Magnus Ostertag
