@@ -8,4 +8,6 @@ nav:
 
 repo_url: https://github.com/MagnusOstertag/sse-mkdocs-exercise
 
+edit_uri: edit/main/docs/
+
 site_author: Magnus Ostertag
