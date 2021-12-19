@@ -11,3 +11,17 @@ repo_url: https://github.com/MagnusOstertag/sse-mkdocs-exercise
 edit_uri: edit/main/docs/
 
 site_author: Magnus Ostertag
+
+theme:
+  name: mkdocs
+  nav_style: dark
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+  highlightjs: true
+  hljs_languages:
+    - md
+    - c++
+  locale: es
